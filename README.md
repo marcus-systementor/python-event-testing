@@ -83,3 +83,9 @@ def test_is_valid_age_rejects_negative_age():
 **Klar när:** Du kan förklara ett eget test utan att läsa det rad för rad. Om du är klar: använd resten av självstudietiden till repetition av validering och tidigare Pythonmoment.
 
 Idag har koden varit korrekt från början och testerna har bekräftat beteendet. På nästa lärarledda lektion arbetar vi vidare med vad som händer när kod förändras och varför tester blir särskilt värdefulla då.
+
+## Facit
+
+I mappen `facit/` finns en komplett version av testfilen.
+
+Försök först skriva testerna själv innan du jämför med facit. Flera korrekta testlösningar kan finnas. Facit är ett exempel på en lösning, inte den enda tillåtna lösningen.
